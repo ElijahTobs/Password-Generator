@@ -54,7 +54,9 @@ span {
 #pwd1, #pwd2 {
   background-color: #273549;
   width: 200px;
-  height: 40px;
+  text-align: center;
+  padding: 15px 0;
+  /* height: 40px; */
   border: 2px solid #fff;
   border-radius: 6px;
 }
