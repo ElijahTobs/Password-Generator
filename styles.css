@@ -24,13 +24,20 @@ p {
 
 #pwd-gen {
   background-color: #10B981;
-  margin-bottom: 30px;
-  margin-top: 30px;
+  margin: 30px 0 30px 0;
   color: #fff;
   width: 190px;
   height: 40px;
   border-radius: 6px;
   border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#pwd-gen:hover {
+  background-color: #fff;
+  color: #10B981;
+  font-weight: 700;  
 }
 
 span {
@@ -43,10 +50,6 @@ span {
   padding-top: 30px;
   border-top: 2px solid #273549;
 }
-
-/* hr {
-  color: #273549;
-} */
 
 #pwd1, #pwd2 {
   background-color: #273549;
