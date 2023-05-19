@@ -18,6 +18,7 @@ p {
   max-width: 450px;
   border: 2px solid green;
   margin: 0 auto;
+  margin-top: 50px;
   padding: 40px 30px 60px;
   background-color: #1F2937;
 }
